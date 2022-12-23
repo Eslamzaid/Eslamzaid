@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eslamzaid
-- 👀 I’m interested in computer sciecne and building stuff that make your life easeier and more productive
+- 👀 I’m interested in computer science and building stuff that make your life easier and more productive
 - 🌱 I’m currently learning JavaScript || React || Python || Bootstrap || bash and others++
 
 <!---
