@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Eslamzaid and I'm a "Front-end developer".
+- 👋 Hi, I’m @Eslamzaid and I'm a Software engineer.
 - 👀 I’m interested in computer science and building stuff that make your life easier and more productive.
-- 💫 I’m a skilful JavaScript || React || Bootstrap || tailwind  developer, 'and other+'.
+- 💫 I’m a skilful JavaScript || React || Bootstrap || tailwind  developer, 'and more+'.
 - 🌠 Im currently learning Typescript and python.
 
 <!---
