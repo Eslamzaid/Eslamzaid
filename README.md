@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in computer science and building stuff that make your life easier and more productive.
  
-- 💫 I’m a skilful **JavaScript || **React || **Bootstrap || **tailwind  **developer, 'and more+'.
+- 💫 I’m a skilful JavaScript || React || Bootstrap || tailwind  developer, 'and more+'.
 
 - 🌠 I’m currently learning **TypeScript, python**
 
