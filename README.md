@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/sreslamzaid" target="blank"><img src="https://img.shields.io/twitter/follow/sreslamzaid?logo=twitter&style=for-the-badge" alt="sreslamzaid" /></a> </p>
 
-- 🔭 I’m currently working on [ENFT](eenft.netlify.app/)
+- 🔭 I’m just finished my latest project (ENFT) https://eenft.netlify.app/
 
 - 👀 I’m interested in computer science and building stuff that make your life easier and more productive.
  
