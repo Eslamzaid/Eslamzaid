@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/sreslamzaid" target="blank"><img src="https://img.shields.io/twitter/follow/sreslamzaid?logo=twitter&style=for-the-badge" alt="sreslamzaid" /></a> </p>
 
-- 🔭I just finished my latest project [ENFT](eenft.netlify.app/)
+- 🔭I am working on my latest project (chory)
 
 - 🌱 I’m currently learning **Node, Express, Next**
 
