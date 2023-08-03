@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/sreslamzaid" target="blank"><img src="https://img.shields.io/twitter/follow/sreslamzaid?logo=twitter&style=for-the-badge" alt="sreslamzaid" /></a> </p>
 
-- 🔭I am working on my latest project (chory)
+- 🔭I just finished my latest project (chory)
 
-- 🌱 I’m currently learning **Node, Express, Next**
+- 🌱 I’m currently learning **Python, Flask, Django**
 
-- 💬 Ask me about **react, JavaScript, tailwind**
+- 💬 Ask me about **react, JavaScript, Express**
 
 - 📫 How to reach me **sreslamzaid@gmail.com**
 
