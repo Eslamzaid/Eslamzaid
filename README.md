@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eslam zaid</h1>
-<h3 align="center">Building services that help people is what I love</h3>
+<h3 align="center">Designing products that have a tangible impact on someone's life is what I am passionate about. I strive to develop innovative solutions that make a real difference in people's lives, and I'm confident in my ability to do so.</h3>
 
 <p align="left"> <a href="https://twitter.com/sreslamzaid" target="blank"><img src="https://img.shields.io/twitter/follow/sreslamzaid?logo=twitter&style=for-the-badge" alt="sreslamzaid" /></a> </p>
 
