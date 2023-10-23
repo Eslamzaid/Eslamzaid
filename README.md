@@ -5,9 +5,9 @@
 
 - 🔭I just finished my latest project (chory)
 
-- 🌱 I’m currently learning **Python, Flask, Django**
+- 🌱 I’m currently learning **Java, Data-structures, algorithms**
 
-- 💬 Ask me about **react, JavaScript, Express**
+- 💬 Ask me about **Python, JavaScript, React, Django**
 
 - 📫 How to reach me **sreslamzaid@gmail.com**
 
