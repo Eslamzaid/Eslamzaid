@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eslam zaid</h1>
-<h2 align="center">Software engineer and Fullstack engineer</h1>
+<h2 align="center">Software engineer and Full-stack engineer</h1>
 <h3 align="center">Designing products that have a tangible impact on someone's life is what I am passionate about. I strive to develop innovative solutions that make a real difference in people's lives, and I'm confident in my ability to do so.</h3>
 
 
