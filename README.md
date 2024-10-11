@@ -5,9 +5,9 @@
 
 - 🔭I just finished my latest project (chory)
 
-- 🌱 I’m currently learning **Assembly, Operating systems, Computer Architecture**
-
-- 💬 Ask me about **Python, JavaScript, React, Django, and more!**
+- 🌱 I’m currently learning **Software architecture, AI/ML, Assembly, Computer Architecture**
+- 
+- 💬 Ask me about **Python, Java, C, JavaScript, React, System Design, Django, and more!**
 
 - 📫 How to reach me **sreslamzaid@gmail.com**
 
